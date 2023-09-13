@@ -611,7 +611,7 @@ section {
 }
 
 .about .image {
-  background: url("../img/Caroline.JPG") center center no-repeat;
+  background: url("/img/Caroline.JPG") center center no-repeat;
   background-size: cover;
   min-height: 500px;
 }
